@@ -268,15 +268,6 @@ El proyecto está configurado para ejecutarse en:
 - **Logs detallados** con timestamps
 - **Timeouts configurables** por tipo de acción
 
-## 📚 Documentación Adicional
-
-Para información más detallada, consulta la [Wiki del proyecto](./wiki/) que incluye:
-- Guías de instalación paso a paso
-- Ejemplos de uso avanzado
-- Troubleshooting común
-- Mejores prácticas de QA
-- Patrones de diseño explicados
-
 ## 🤝 Contribución y Mejoras
 
 Este proyecto fue desarrollado como demostración técnica, pero está abierto a mejoras:
@@ -293,5 +284,6 @@ Este proyecto fue desarrollado como demostración técnica, pero está abierto a
 Desarrollado como parte de un proceso de entrevista técnica para posición de QA Engineer.
 
 ---
+
 
 **Nota**: Este proyecto demuestra competencias en automatización de pruebas, patrones de diseño, y mejores prácticas de QA para aplicaciones web modernas.
